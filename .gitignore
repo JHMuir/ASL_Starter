@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-asl_model.py
-test_camera.py
 training.ipynb
 # C extensions
 *.so
