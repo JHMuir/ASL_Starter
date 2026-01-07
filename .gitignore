@@ -6,6 +6,7 @@ __pycache__/
 training.ipynb
 # C extensions
 *.so
+collected_samples/
 
 # Distribution / packaging
 .Python
